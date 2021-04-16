@@ -6,7 +6,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=francisco-correa&theme=merko&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-correa)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-correa&layout=compact)
 
 
 <!---
