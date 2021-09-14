@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @francisco-correa
 - 👀 I’m interested in Health Informatics and Marketing
-- 🌱 I’m currently learning Front and Backend language tools: from ReactJS to Python Flask
+- 🌱 I’m currently learning Backend language: API HL7 FHIR r4, Python-3, Pandas, Matplotlib, SQL-Alchemy, APIFlask 
 - 💞️ I’m looking to collaborate on projects with digital health problems
-- 📫 How to reach me https://francisco-portfolio.vercel.app/ or https://linktr.ee/francisco_correa
+- 📫 How to reach me https://francisco-portfolio.vercel.app/ || https://linktr.ee/francisco_correa
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=francisco-correa&theme=merko&show_icons=true&count_private=true)
 
