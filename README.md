@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @francisco-correa
-- 👀 I’m interested in Health Informatics and Marketing
+- 👀 I’m interested in Health Informatics, Ecommerce and Marketing
 - 🌱 I’m currently learning Backend language: API HL7 FHIR r4, Python-3, Pandas, Matplotlib, SQL-Alchemy, APIFlask 
 - 💞️ I’m looking to collaborate on projects with digital health problems
 - 📫 How to reach me https://francisco-portfolio.vercel.app/ || https://linktr.ee/francisco_correa
